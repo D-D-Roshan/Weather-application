@@ -1,6 +1,3 @@
-Here’s an updated version of your GitHub README with sections for a sample image and a live demo:
-
----
 
 # 🌤️ Weather Monitoring App
 
@@ -67,7 +64,7 @@ The app will notify the user with an alert if the current temperature exceeds 35
 
 ## 📸 Sample Screenshot
 
-![Weather Monitoring App Screenshot](https://your-image-link.com/sample-image.png)
+![Weather Monitoring App Screenshot](https://github.com/D-D-Roshan/Weather-application/blob/main/public/Screenshot%20(100).png)
 
 ## 🌐 Live Demo
 
