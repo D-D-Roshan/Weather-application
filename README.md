@@ -14,8 +14,9 @@ This Weather Monitoring App uses the OpenWeather API to provide real-time weathe
   
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React.js
 - **API**: [OpenWeather API](https://openweathermap.org/api)
+- **Backend**:node.js
 
 ## ⚙️ Installation
 
